@@ -1,4 +1,4 @@
-# Fase1-240215-Gabellaccia3 ([mappa](https://umap.openstreetmap.fr/it/map/fase1-240215-passodellagabellaccia_1067183?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-240215-Gabellaccia3 ([mappa](https://umap.openstreetmap.fr/it/map/fase1-240215-passodellagabellaccia_1067183))
 Secondo sopralluogo al Passo della Gabellaccia in inverno per ripercorrere la zona e cercare la Tecchia della Gabellaccia citata nelle fonti (3^ tentativo)
 ## Percorso: Passo della Gabellaccia-Tecchia
 [<img src='/vignettes/VNw5KvhK.jpg' width='250'/>](/vignettes/VNw5KvhK.jpg) 
