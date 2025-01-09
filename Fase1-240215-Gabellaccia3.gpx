@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.1239487" lon="10.094597">
+    <ele>500</ele>
+    <name>Riparo della Gabellaccia 2</name>
+    <desc>Grande riparo sotto roccia con ampia apertura e camera più profonda sulla destra, importante vegetazione invade l'interno</desc>
+  </wpt>
+  <wpt lat="44.1241275" lon="10.0952402">
+    <ele>500</ele>
+    <name>Riparo Gabellaccia 3</name>
+    <desc>Piccolo riparo</desc>
+  </wpt>
+  <wpt lat="44.1238161" lon="10.0983058">
+    <ele>500</ele>
+    <name>Gabellaccia</name>
+    <desc>Vecchio edificio della gabella estense</desc>
+  </wpt>
+  <wpt lat="44.1234139" lon="10.0964578">
+    <ele>500</ele>
+    <name>Deviazione grotte della Gabellaccia</name>
+    <desc>Deviazione a destra del sentiero, lato versante per raggiungere la traccia che collega i ripari e la tecchia della Gabellaccia</desc>
+  </wpt>
+  <wpt lat="44.1237095" lon="10.0981632">
+    <ele>500</ele>
+    <name>Bivio</name>
+    <desc>Bivio nei pressi della Gabellaccia</desc>
+  </wpt>
+  <trk>
+    <name>Passo della Gabellaccia-Tecchia</name>
+    <desc>Sentiero CAI 185, partendo dal Passo della Gabellaccia in direzione di Castelpoggio</desc>
+    <trkseg>
+      <trkpt lat="[10.0982906, 44.1238088, 895.74]" lon="[10.098304, 44.1238202, 896.24]">
+        <ele>[10.0982517, 44.1237924, 894.32]</ele>
+      </trkpt>
+      <trkpt lat="[10.0981814, 44.123728, 893.28]" lon="[10.0981632, 44.1237095, 894.11]">
+        <ele>[10.0983092, 44.1235565, 892.98]</ele>
+      </trkpt>
+      <trkpt lat="[10.0942477, 44.1240057, 765.23]" lon="[10.0942595, 44.124013, 768.37]">
+        <ele>[10.0942442, 44.1240163, 777.93]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
